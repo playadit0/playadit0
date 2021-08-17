@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @playadit0
 - 👀 I’m interested in Java, Javascript, Multithread, evolve
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning new things in java
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me augusto.a.vivaldelli@gmail.com
 
